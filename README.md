@@ -149,16 +149,20 @@ Python was then used for:
 
 ## Visualizations
 
-The notebook contains visualizations including:
+### Database Connection
+![Database Connection](images/workflow/database_connection.png)
 
-- Customer churn distribution
-- Plan-wise churn analysis
-- Customer tenure analysis
-- Complaint and escalation analysis
-- KPI-focused charts
+### Customer Table Preview
+![Customer Table Preview](images/workflow/customer_table_preview.png)
 
-> Screenshots of important outputs will be added to the `images/` folder.
+### Churn Flag Feature Engineering
+![Churn Flag Output](images/workflow/churn_flag_output.png)
 
+### Plan-wise Churn Analysis
+![Plan-wise Churn Summary](images/workflow/plan_wise_churn_summary.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/workflow/correlation_heatmap.png)
 ---
 
 ## Results
